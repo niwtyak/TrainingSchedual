@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TrainingSchedual</string>
+    <string-array name="trainingItems">
+        <item>Турник</item>
+        <item>Беговая дорожка</item>
+        <item>Велотренажер</item>
+        <item>Гребной тренажер</item>
+        <item>Скамья для жима лежа</item>
+        <item>Тренажер Смита</item>
+        <item>Скамья для жима ногами</item>
+        <item>Скамья для пресса</item>
+    </string-array>
+
+
+    <string-array name="sex">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+
+    <string-array name="exp">
+        <item>До 3х месяцев</item>
+        <item>До полугода</item>
+        <item>От полугода до года</item>
+        <item>Больше года</item>
+    </string-array>
+
+    <string-array name="target">
+        <item>Похудение</item>
+        <item>Рельеф</item>
+        <item>Набор массы</item>
+    </string-array>
+
+    <string-array name="number">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="difficulty">
+        <item>Легкий</item>
+        <item>Средний</item>
+        <item>Тяжелый</item>
+    </string-array>
+
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_add_new_plan">AddNewPlanActivity</string>
+    <string name="title_activity_description">DescriptionActivity</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/sortName"
+    android:title="По имени клиента"/>
+
+    <item
+        android:id="@+id/sortTime"
+        android:title="По времени"/>
+    <item
+        android:id="@+id/sortItem"
+        android:title="По типу тренажера"/>
+</menu>
